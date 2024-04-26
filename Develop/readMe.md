@@ -20,7 +20,6 @@ its the code used to check that two hex codes are matching below we will break a
 - [Character Classes](#character-classes)
 - [The OR Operator](#the-or-operator)
 - [Flags](#flags)
-- [Character Escapes](#character-escapes)
 
 ## Regex Components
 
@@ -64,7 +63,6 @@ in this instance here it the | after the 6 in curly brackets what this does is i
 
 ### Flags
 This code does not contain flags however as a brief overview to keep an eye out in the future Flags exist to change the default search behavior of the expression they are denoted with a lowercase letter such as i, g, m to list a few depedning on what letter is used it modifies the search behavior in different ways
-### Character Escapes
 
 ## Author
 My name is Alex Ryder this is my github page https://github.com/Zorzorac05
